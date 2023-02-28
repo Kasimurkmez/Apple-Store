@@ -31,6 +31,7 @@ function App() {
           ) {
             return apple;
           }
+          return false;
         }).map((apple) => {
           return (
             <div className="data" key={apple.id}>
