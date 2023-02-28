@@ -1,0 +1,113 @@
+[
+    {
+        "id": 1,
+        "image": "https://images.unsplash.com/photo-1629131726692-1accd0c53ce0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80",
+        "title": "MacBook Pro/M2 Pro",
+        "Price": 1200
+      },
+      {
+        "id": 2,
+        "image": "https://images.unsplash.com/photo-1625766763788-95dcce9bf5ac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80",
+        "title": "MacBook Air M1 8GB-256GB SSD",
+        "Price": 1050
+      },
+      {
+        "id": 3,
+        "image": "https://images.unsplash.com/photo-1631452090710-f3914f393618?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2574&q=80",
+        "title": " iMac with Retina 4.5K display: Apple M1 chip",
+        "Price": 1390
+      },    
+      {
+        "id": 4,
+        "image": "https://images.unsplash.com/photo-1604054923518-e491a9a6afbb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2080&q=80",
+        "title": "iPhone 13 128 GB  Mavi",
+        "Price": 899
+      },
+      {
+        "id": 5,
+        "image":"https://images.unsplash.com/photo-1592750475338-74b7b21085ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80",
+        "title": "iPhone 14 Pro 256 GB",
+        "Price": 1199
+      },
+      {
+        "id": 6,
+        "image":"https://images.unsplash.com/photo-1664478546384-d57ffe74a78c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80",
+        "title": "iPhone 14 Pro Max 128 GB",
+        "Price": 1099
+      },
+      {
+        "id": 7,
+        "image":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/refurb-ipad-pro-11-wifi-spacegray-2020?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1627667236000",
+        "title": "iPad Pro 12.9' M2 Cip",
+        "Price": 999
+      },
+      {
+        "id": 8,
+        "image":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-10th-gen-finish-unselect-gallery-1-202212_GEO_EMEA?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1668554661939",
+        "title": "iPad  11” (M2 Çip)",
+        "Price": 699
+      },
+      {
+        "id": 9,
+        "image":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-blue?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1666991953754",
+        "title": "iPad Air 10.9” (M2 Çip)",
+        "Price": 849
+      },
+      {
+        "id": 10,
+        "image":"https://www.apple.com/newsroom/images/product/watch/standard/Apple-Watch-Family-Setup-220907_big.jpg.large.jpg",
+        "title": "APPLE Watch Series 8",
+        "Price": 449
+      },
+      {
+        "id": 11,
+        "image":"https://www.macwelt.de/wp-content/uploads/2022/11/Apple-Watch-Ultra_-review_9.jpg?quality=50&strip=all&w=1024",
+        "title": "APPLE Watch Ultra",
+        "Price": 799
+      },
+      {
+        "id": 12,
+        "image":"https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80",
+        "title":"AirPods (3rd generation)",
+        "Price": 179
+      },
+      {
+        "id": 13,
+        "image":"https://imageio.forbes.com/specials-images/imageserve/5fcfa397c2d5ed52984c6afe/Apple-AirPods-Max-in-pink-finish-/960x0.jpg?format=jpg&width=960",
+        "title": "AirPods Max",
+        "Price": 549
+      },
+      {
+        "id": 14,
+        "image":
+          "https://images.unsplash.com/photo-1622580588445-7b04678a2129?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80",
+        "title": "Magic Mouse",
+        "Price": 99
+      },
+      {
+        "id": 15,
+        "image":
+          "https://images.unsplash.com/photo-1622774105448-f07ee509d9d0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80",
+        "title": "Magic Keyboard",
+        "Price": 99
+      },
+      {
+        "id": 16,
+        "image":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/apple-tv-4k-hero-select-202210_FMT_WHH?wid=640&hei=600&fmt=jpeg&qlt=90&.v=1664896361164",
+        "title": "Apple TV 4K",
+        "Price": 129
+      },
+      {
+        "id": 17,
+        "image":"https://images.macrumors.com/article-new/2023/01/HomePod-2-White-and-Midnight-Feature-Blue-Orange.jpg",
+        "title": "HomePod",
+        "Price": 299
+      },
+      {
+        "id": 18,
+        "image":"https://images.unsplash.com/photo-1622531635122-4c6ef2a2848f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3311&q=80",
+        "title": "Magic Keyboard for iPad Pro 12.9 inch",
+        "Price": 329
+      }
+    
+    ]
